@@ -1,2 +1,2 @@
-# Projects
-my personal projects
+# The-Drum-Kit
+A practice project from Udemy Web Development Bootcamp
